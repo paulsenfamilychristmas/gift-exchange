@@ -21,8 +21,8 @@ body {
 }
 
 .user-card {
-    width: 90%;
-    max-width: 400px;
+    width: 80%;
+    max-width: 480px;
     padding: 20px;
     background-color: #fff;
     border-radius: 15px;
