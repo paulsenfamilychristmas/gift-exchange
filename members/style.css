@@ -48,3 +48,9 @@ ul {
 li {
     margin-bottom: 5px;
 }
+
+@media (max-width: 600px) { 
+    .user-card {
+        max-width: 80vw;
+    }
+}
