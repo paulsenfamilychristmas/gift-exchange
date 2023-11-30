@@ -26,10 +26,11 @@ h1 {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 10px;
+    width: 90%;
 }
 
 .rectangle {
-    width: 240px;
+    width: 45%;
     background-color: #fff;
     color: #000;
     text-align: center;
